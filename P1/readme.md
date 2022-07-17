@@ -1,0 +1,1 @@
+This repo was created while learning Kafka through the course [Apache Kafka for beginners](https://www.linkedin.com/learning/learn-apache-kafka-for-beginners) from LinkedIn.
